@@ -1,0 +1,26 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/krithikh/esp/v5.5.1/esp-idf",
+  "idf.toolsPath": "/home/krithikh/.espressif",
+  "idf.pythonInstallPath": "/usr/bin/python3",
+  "files.associations": {
+    "nvs_flash.h": "c",
+    "freertos.h": "c",
+    "esp_netif.h": "c"
+  },
+  "idf.port": "/dev/ttyUSB0",
+  "idf.flashType": "UART",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32c3"
+  },
+  "clangd.path": "/home/krithikh/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=/home/krithikh/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20241119/riscv32-esp-elf/bin/riscv32-esp-elf-gcc",
+    "--compile-commands-dir=/home/krithikh/ESP32/esp_relay/build"
+  ],
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.monitorPort": "/dev/ttyUSB0"
+}
