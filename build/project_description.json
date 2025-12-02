@@ -865,7 +865,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [ "protocol_examples_common" ],
             "file": "/home/krithikh/ESP32/esp_relay/build/esp-idf/main/libmain.a",
-            "sources": [ "/home/krithikh/ESP32/esp_relay/main/relay_server.c" ],
+            "sources": [ "/home/krithikh/ESP32/esp_relay/main/udp_server.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {
