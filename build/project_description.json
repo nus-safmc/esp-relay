@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "relay_server",
-    "project_version":    "1",
+    "project_version":    "d4fd876-dirty",
     "project_path":       "/home/krithikh/ESP32/esp_relay",
     "idf_path":           "/home/krithikh/esp/v5.5.1/esp-idf",
     "build_dir":          "/home/krithikh/ESP32/esp_relay/build",
